@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="400"  xml:space="preserve">
+    <rect id="step1" stroke="none" fill="none" x="14" y="53" width="42" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="17.37" y="53">
+        <tspan x="17.37" y="71">БОГ</tspan>
+    </text>
+    <path id="bezier" stroke="rgb(0, 0, 0)" stroke-width="2.5" stroke-miterlimit="10" fill="none" d="M 67.5,48.5 C 54.5,77.5 54.5,77.5 54.5,77.5" />
+    <rect id="step2" stroke="none" fill="none" x="65" y="53" width="88" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="65.95" y="53">
+        <tspan x="65.95" y="71">ЧЕЛОВЕК</tspan>
+    </text>
+    <rect id="step3" stroke="none" fill="none" x="497" y="53" width="69" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="497.71" y="53">
+        <tspan x="497.71" y="71">ЖИЗНЬ</tspan>
+    </text>
+    <path id="step4" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 166.5,71.5 C 484.5,70.5 484.5,70.5 484.5,70.5" />
+    <path id="step5" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="5,5,5,5" fill="none" d="M 63.5,73.5 C 164.5,54.5 164.5,54.5 164.5,54.5" />
+    <rect id="step6" stroke="none" fill="none" x="24" y="326" width="88" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="24.95" y="326">
+        <tspan x="24.95" y="344">ЧЕЛОВЕК</tspan>
+    </text>
+    <rect id="step7" stroke="none" fill="none" x="344" y="157" width="47" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="344.82" y="157">
+        <tspan x="344.82" y="175">ГРЕХ</tspan>
+    </text>
+    <rect id="step8" stroke="none" fill="none" x="497" y="326" width="84" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="501.64" y="326">
+        <tspan x="501.64" y="344">СМЕРТЬ</tspan>
+    </text>
+    <path id="step9" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 121.5,342.5 C 492.5,343.5 489.5,343.5 489.5,343.5" />
+    <g id="step101">
+        <path id="bezier2" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 139.5,341.5 L 139.5,195.5" />
+        <polygon id="polygon" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" points="139.5,179 144.26,194 134.74,194" />
+        <rect id="text" stroke="none" fill="rgb(255, 255, 255)" x="93" y="225" width="94" height="35" />
+        <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="14" x="93.65" y="225">
+            <tspan x="93.65" y="239">ПОСЕЩЕНИЕ </tspan>
+            <tspan x="111.15" y="256">ЦЕРКВИ</tspan>
+        </text>
+    </g>
+    <g id="step102">
+        <path id="bezier3" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 192.5,342.5 L 192.5,196.5" />
+        <polygon id="polygon2" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" points="192.5,180 197.26,195 187.74,195" />
+        <rect id="text2" stroke="none" fill="rgb(255, 255, 255)" x="162" y="277" width="62" height="35" />
+        <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="14" x="162.52" y="277">
+            <tspan x="162.52" y="291">ДОБРЫЕ </tspan>
+            <tspan x="173.87" y="308">ДЕЛА</tspan>
+        </text>
+    </g>
+    <g id="step103">
+        <path id="bezier4" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 245.5,342.5 L 245.5,196.5" />
+        <polygon id="polygon3" stroke="rgb(0, 0, 0)" fill="rgb(0, 0, 0)" points="245.5,180 250.26,195 240.74,195" />
+        <rect id="text3" stroke="none" fill="rgb(255, 255, 255)" x="211" y="225" width="70" height="35" />
+        <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="14" x="218.4" y="225">
+            <tspan x="218.4" y="239">ДРУГИЕ </tspan>
+            <tspan x="213.06" y="256">РЕЛИГИИ</tspan>
+        </text>
+    </g>
+    <g id="group">
+        <path id="bezier5" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 349.64,71.5 L 349.64,139.5 306.48,139.5 306.48,196.5 349.64,196.5 349.64,332.5" />
+        <polygon id="polygon4" stroke="rgb(0, 0, 0)" stroke-width="3" fill="rgb(0, 0, 0)" points="349.5,336.5 352.53,328.25 346.47,328.25" />
+    </g>
+    <path id="step" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" stroke-dasharray="5,5,5,5" fill="none" d="M 20.5,347.5 C 121.5,328.5 121.5,328.5 121.5,328.5" />
+    <rect id="text4" stroke="none" fill="none" x="20" y="353" width="70" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="14.5" x="25.78" y="353">
+        <tspan x="25.78" y="367">Мое имя</tspan>
+    </text>
+    <rect id="text5" stroke="none" fill="none" x="24" y="373" width="70" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="14.5" x="25.34" y="373">
+        <tspan x="25.34" y="387">Ваше имя</tspan>
+    </text>
+    <g id="group2">
+        <path id="bezier6" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="7" fill="none" d="M 358.29,343.33 L 374.95,343.33" />
+        <path id="polygon5" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" fill="rgb(0, 0, 0)" d="M 384.78,343.15 L 374.84,346.77 375.02,343.35 374.91,339.26 384.78,343.15 Z M 384.78,343.15" />
+    </g>
+    <g id="group3">
+        <path id="bezier8" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 372.46,328.99 L 358.33,343.68" />
+        <path id="polygon6" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" fill="rgb(0, 0, 0)" d="M 380.99,321.02 L 375.37,331.24 373.15,328.77 370.25,326.05 380.99,321.02 Z M 380.99,321.02" />
+    </g>
+    <path id="bezier9" stroke="rgb(0, 0, 0)" stroke-width="3" stroke-miterlimit="10" fill="none" d="M 390.5,79.5 L 390.36,139.5 433.52,139.5 433.52,196.5 390.36,196.5 390.5,342.5" />
+    <polygon id="polygon7" stroke="rgb(0, 0, 0)" stroke-width="3" fill="rgb(0, 0, 0)" points="390.5,76.5 387.47,84.75 393.53,84.75" />
+    <rect id="step10" stroke="none" fill="none" x="330" y="162" width="79" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="337.5" y="162">
+        <tspan x="337.5" y="180">ИИСУС</tspan>
+    </text>
+    <rect id="step11" stroke="none" fill="none" x="413" y="211" width="119" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="413.78" y="211">
+        <tspan x="413.78" y="229">ИОАННА 3:16</tspan>
+    </text>
+    <rect id="step12" stroke="none" fill="none" x="400" y="327" width="11" height="31" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica-Bold, Helvetica, sans-serif" font-weight="bold" font-size="24" x="401.5" y="327">
+        <tspan x="401.5" y="350">(</tspan>
+    </text>
+    <rect id="step13" stroke="none" fill="none" x="462" y="328" width="11" height="31" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica-Bold, Helvetica, sans-serif" font-weight="bold" font-size="24" x="463.5" y="328">
+        <tspan x="463.5" y="351">)</tspan>
+    </text>
+    <rect id="step14" stroke="none" fill="none" x="174" y="55" width="11" height="31" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica-Bold, Helvetica, sans-serif" font-weight="bold" font-size="24" x="175.5" y="55">
+        <tspan x="175.5" y="78">(</tspan>
+    </text>
+    <rect id="step15" stroke="none" fill="none" x="236" y="56" width="11" height="31" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica-Bold, Helvetica, sans-serif" font-weight="bold" font-size="24" x="237.5" y="56">
+        <tspan x="237.5" y="79">)</tspan>
+    </text>
+    <rect id="step16" stroke="none" fill="none" x="268" y="43" width="180" height="20" />
+    <text fill="rgb(0, 0, 0)" font-family="Helvetica, sans-serif" font-size="18" x="269.35" y="43">
+        <tspan x="269.35" y="61">ЖИЗНЬ В ЕГО ТЕЛЕ</tspan>
+    </text>
+</svg>
